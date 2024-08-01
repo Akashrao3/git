@@ -1,1 +1,2 @@
-fafafa
+print "hello"
+fafafa print
